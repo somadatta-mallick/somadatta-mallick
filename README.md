@@ -1,16 +1,72 @@
-## Hi there 👋
+# Somadatta Mallick
 
-<!--
-**somadatta-mallick/somadatta-mallick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Lead Platform Engineer** · India · Remote
 
-Here are some ideas to get you started:
+15 years in data infrastructure — Kafka, Hadoop, Kubernetes.
+Building modern data platforms with Iceberg, Trino, and Grafana.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Experience
+
+| Area | Years |
+|---|---|
+| Oracle development | 5 years |
+| Kafka administration | 10+ years |
+| Cloudera Hadoop | 10+ years |
+| Kubernetes — Platform9 | Current |
+| Trino · Iceberg · Hive Metastore | Current |
+
+---
+
+## Tech Stack
+
+**Data Infrastructure**
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+
+**Modern Data Platform**
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Apache Iceberg](https://img.shields.io/badge/Apache%20Iceberg-0E4C96?style=flat&logoColor=white)
+![Trino](https://img.shields.io/badge/Trino-DD00A1?style=flat&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat&logo=minio&logoColor=white)
+
+**Observability**
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+
+**Tools**
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+## Currently Building
+
+A modern data lakehouse platform in a home lab —
+Kubernetes · MinIO · Hive Metastore · Trino · Grafana
+
+| Repository | Description | Status |
+|---|---|---|
+| [grafana-lab](https://github.com/somadatta-mallick/grafana-lab) | Kubernetes + Prometheus + Grafana | ✅ Live |
+| [data-platform-lab](https://github.com/somadatta-mallick/data-platform-lab) | MinIO + Hive Metastore + Trino | 🔧 Building |
+
+---
+
+## 2026 Goals
+
+- [x] Kubernetes cluster with kubeadm
+- [x] Prometheus and Grafana on Kubernetes
+- [x] MinIO object storage
+- [ ] Hive Metastore + Trino end to end
+- [ ] Kafka consumer lag dashboard
+- [ ] Iceberg table health dashboard
+- [ ] GitOps pipeline with CI/CD
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/somadatta-mallick)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/somadatta-mallick)
