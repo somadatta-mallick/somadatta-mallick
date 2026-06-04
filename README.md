@@ -12,8 +12,8 @@ Building modern data platforms with Iceberg, Trino, and Grafana.
 | Area | Years |
 |---|---|
 | Oracle development | 5 years |
-| Kafka administration | 10+ years |
-| Cloudera Hadoop | 10+ years |
+| Confluent Kafka administration | 10+ years |
+| Cloudera Hadoop administration | 10+ years |
 | Kubernetes — Platform9 | Current |
 | Trino · Iceberg · Hive Metastore | Current |
 
@@ -22,9 +22,10 @@ Building modern data platforms with Iceberg, Trino, and Grafana.
 ## Tech Stack
 
 **Data Infrastructure**
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
+![Confluent](https://img.shields.io/badge/Confluent%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Cloudera](https://img.shields.io/badge/Cloudera%20Hadoop-F96702?style=flat&logo=cloudera&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 
 **Modern Data Platform**
@@ -40,6 +41,7 @@ Building modern data platforms with Iceberg, Trino, and Grafana.
 **Tools**
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
